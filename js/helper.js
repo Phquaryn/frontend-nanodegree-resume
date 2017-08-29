@@ -255,4 +255,4 @@ Uncomment the code below when you're ready to implement a Google Map!
 
 var locationizer = function(work_obj) {
 
-}
+};
